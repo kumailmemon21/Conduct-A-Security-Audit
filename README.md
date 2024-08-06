@@ -32,5 +32,10 @@ The objective of this lab is to conduct a security audit by completing a control
 
 ## Documents 
 <a href="https://docs.google.com/document/d/1vAt_0ZdB9TBU93uzO5VI0bsLjssz0pqKsMh_ReXnj-8/edit#heading=h.evidx83t54sc">Botium Toys: Scope, goals, and risk assessment report</a>
-<a href="https://docs.google.com/document/d/1gMSOGIo0UfrhX6gaoVt3W95ME63Qd9sJHBzZ3j8rykI/edit?resourcekey=0-d8_8WlXZrAZFIN7Cpe9vCQ#heading=h.m1x9amj91myi">Contol Categories</a>
+
+<a href="https://docs.google.com/document/d/1gMSOGIo0UfrhX6gaoVt3W95ME63Qd9sJHBzZ3j8rykI/edit?resourcekey=0-d8_8WlXZrAZFIN7Cpe9vCQ#heading=h.m1x9amj91myi">Control categories</a>
+
 <a href="https://docs.google.com/document/d/1zGOOZhCNYGoM2bQLAB8JMPairpxxklnUD-ZUzIcEtag/edit#heading=h.87tykp1u0l36">Controls and compliance checklist</a>
+
+
+
